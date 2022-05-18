@@ -49,7 +49,7 @@ const samplePageLinks = [
 const moreLinks = [
   { text: "Join us on Discord", url: "https://gatsby.dev/discord" },
   {
-    text: "Documentation",
+    text: "STufffsfdadsaf",
     url: "https://gatsbyjs.com/docs/",
   },
   {
@@ -96,7 +96,6 @@ const IndexPage = () => (
         <br />
         Edit <code>src/pages/index.js</code> to update this page.
       </p>
-      <a>Hello World</a>
     </div>
     <ul className={styles.list}>
       {links.map(link => (
